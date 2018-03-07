@@ -1,0 +1,13 @@
+logrotate state -- version 2
+"/home/priyanka/.cache/upstart/unity-panel-service-lockscreen.log" 2018-3-7-20:0:0
+"/home/priyanka/.cache/upstart/dbus.log" 2018-3-7-20:57:45
+"/home/priyanka/.cache/upstart/gpg-agent.log" 2018-3-7-20:57:45
+"/home/priyanka/.cache/upstart/indicator-keyboard.log" 2018-3-7-20:0:0
+"/home/priyanka/.cache/upstart/unity-panel-service.log" 2018-3-7-20:57:45
+"/home/priyanka/.cache/upstart/unity7.log" 2018-3-7-20:57:45
+"/home/priyanka/.cache/upstart/gnome-keyring-ssh.log" 2018-3-7-20:57:45
+"/home/priyanka/.cache/upstart/indicator-sound.log" 2018-3-7-20:57:45
+"/home/priyanka/.cache/upstart/upstart-event-bridge.log" 2018-3-7-20:57:45
+"/home/priyanka/.cache/upstart/window-stack-bridge.log" 2018-3-7-20:57:45
+"/home/priyanka/.cache/upstart/unity-settings-daemon.log" 2018-3-7-20:57:45
+"/home/priyanka/.cache/upstart/ssh-agent.log" 2018-3-7-20:57:45

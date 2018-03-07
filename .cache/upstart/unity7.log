@@ -1,0 +1,9 @@
+WARN  2018-03-07 20:58:17 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+
+(soffice:6365): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:6379): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:6379): Gdk-WARNING **: gdk_window_set_icon_list: icons too large

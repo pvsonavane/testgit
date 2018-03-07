@@ -1,0 +1,8 @@
+
+(unity-settings-daemon:1606): power-plugin-WARNING **: failed to turn the kbd backlight off: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.UPower.KbdBacklight' on object at path /org/freedesktop/UPower/KbdBacklight
+
+(unity-settings-daemon:1606): power-plugin-WARNING **: failed to turn the kbd backlight off: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.UPower.KbdBacklight' on object at path /org/freedesktop/UPower/KbdBacklight
+
+(unity-settings-daemon:1606): power-plugin-WARNING **: failed to turn the kbd backlight off: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.UPower.KbdBacklight' on object at path /org/freedesktop/UPower/KbdBacklight
+** Message: Unable to select area using GNOME Shell's builtin screenshot interface, resorting to fallback X11.
+** Message: Unable to select area using GNOME Shell's builtin screenshot interface, resorting to fallback X11.
